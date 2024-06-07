@@ -1,0 +1,7 @@
+Player overlays with Rope box 
+Get player location and nearest spline point 
+Attach player to spline point
+change gravity to 0 and activate climbing movement inputs
+
+Ending overlap = reactivates normal movement
+resets gravity 
